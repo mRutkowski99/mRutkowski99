@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Miłosz Rutkowski (@mRutkowski99)
+- 👋 Hi, I’m Miłosz Rutkowski
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning HTML, CSS, Sass, JavaScript, React (soon) and widely understood web development
+- 🌱 I’m currently learning HTML, CSS, Sass, JavaScript, React and widely understood web development
 - 📫 How to reach me? 
 Email: m.rutkowski0909@gmail.com
 LinkedIn: www.linkedin.com/in/miłosz-rutkowski-38a52b225
