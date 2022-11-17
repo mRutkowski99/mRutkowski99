@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miłosz Rutkowski
-- 👀 I’m interested in web apps development - especially front-end 
-- 🌱 I’m familiar with such technologies as HTML, CSS (Sass), JavaScript, React, Angular and Git. I' ve also tried some backend using C# .NET, MS SQL and Java. Becouse of my small experience I'm still focused on expending my skills 
+- 👀 I’m interested in web development - front-end, back-end, software architecture and best practices 
+- 🌱 I’m familiar with such technologies as HTML, CSS/SCSS, JavaScript, TypeScript, basics of React, Angular, RxJS, NgRx, .NET, NestJS, Git and Nx.
 - 📫 How to reach me? 
 Email: m.rutkowski0909@gmail.com
 LinkedIn: www.linkedin.com/in/miłosz-rutkowski-38a52b225
